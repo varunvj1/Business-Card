@@ -1,6 +1,6 @@
-# card_project
+# Business Card
 
-A new Flutter application.
+A flutter application that displays my business card.
 
 ## Getting Started
 
